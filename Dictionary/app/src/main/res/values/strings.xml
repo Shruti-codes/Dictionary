@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Dictionary</string>
+
+    <string name="correct">Awesome! Score = </string>
+    <string name="incorrect" >Nope! Score = </string>
+    <string name="successful">Word added</string>
+
+    <string-array name="words">
+        <item> hello</item>
+        <item> sorry </item>
+        <item> dictionary </item>
+    </string-array>
+
+    <string-array name="spinwords">
+        <item> definition</item>
+        <item> synonyms</item>
+        <item> antonyms</item>
+    </string-array>
+</resources>
